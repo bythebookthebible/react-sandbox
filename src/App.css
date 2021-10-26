@@ -25,6 +25,10 @@ body {
   color: white;
 }
 
+.face {
+  font-size: 10vmin;
+}
+
 .logo {
   height: 30vmin;
   pointer-events: none;
